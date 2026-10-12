@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @varghese143
+- 👋 Hi, I’m @varghese mathew
 - 👀 I’m interested in Coding,Astronomy,Physics,Theory and postulation on woking of universe
 - 🌱 I’m currently learning python,Fotran
 - 💞️ I’m looking to collaborate on coding,FE analysis,CFD analysis,universe working theories
